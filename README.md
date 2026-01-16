@@ -1,7 +1,6 @@
 # 🏎️ Formula 1 Performance Analytics Dashboard (Tableau)
 
 An interactive **Tableau dashboard project** analyzing Formula 1 driver, constructor, track, and race performance using historical F1 data.
-
 This project provides insights into season standings, race outcomes, constructor dominance, circuit difficulty, and position changes from grid to finish.
 
 ---
